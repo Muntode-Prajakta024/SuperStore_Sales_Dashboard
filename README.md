@@ -1,4 +1,4 @@
-🛍️ SuperStore Sales Dashboard
+### 🛍️ SuperStore Sales Dashboard
 
 ### 📊 Power BI | Excel | Data Analysis | Data Visualization
 
